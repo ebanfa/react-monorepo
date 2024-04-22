@@ -1,0 +1,10 @@
+{
+  "name": "nova-ui-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/nova-ui-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["nova-ui"],
+  "// targets": "to see all targets run: nx show project nova-ui-e2e --web",
+  "targets": {}
+}
